@@ -43,6 +43,8 @@ My schedule can get hectic, but here’s how best to reach me:
 - **WhatsApp:** Fine for personal matters, checked as often as Slack.  
 - **Phone Call:** If you call, I’ll assume it’s urgent.  
 
+Don't wait for our next 1:1 if you have anything urgent!  
+
 ### My Known Bugs 🐞  
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZlZ2RwdGdkeDF5YzdiN21yNXUxbXgxNmdwd2lkcHlnam9zeDMyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owyoUHuSSqDMEzVRu/giphy.gif)
@@ -55,6 +57,9 @@ Like any good system, I come with a few quirks you should know about:
 - **Concentration Contrast:** Usually punny and positive, sometimes UBER-serious commander mode (esp. 2 AM incidents or when deeply focused). Jokes come back once the fire’s out.  
 - **Family Man:** Dad in puns and in life. I’ll be available for urgencies, but please respect family time.  
 - **PPM Factor:** The longer a meeting runs, the higher my **Puns Per Minute**. Feel free to tell me when it’s too much.  
+
+### Work-Life Balance 🌱  
+Don’t work over hours. When it’s needed for an incident or something truly urgent, sure, else **manage your time to ensure you breathe and enjoy your private life**.  
 
 ---
 
@@ -73,10 +78,20 @@ My job is to help you succeed, grow, and have an impact without unnecessary fric
 - **Personal Doc:** Co-created, goal-focused, done by our 3rd 1:1. Private to us.  
 - **Meetings:**  
   - Bi-weekly 1:1s.  
-  - Bi-monthly *Hackadelic* (team fun, can be related to work and perhaps not, name subject to puns).  
+  - Bi-monthly *Hackadelic* (team fun, can be related to work or not, name subject to puns).  
   - Bi-yearly *PEP* (Personal Evaluation Process, **NOT PIP**) , 1.5h deep two-way feedback and growth planning.  
 - **Features vs. Learning:** We balance shipping and growing.  
 - **Team Interaction:** Pairing encouraged, knowledge-sharing expected.  
+
+### PragmaErik Survival Tips  
+- **Own your tasks:**  
+  - If something is unclear, ask.  
+  - Ownership doesn’t end with a merge, keep an eye on how your change behaves over time.  
+  - If you stopped mid-task, could someone else continue?  
+  - Raise flags early for spillovers or unexpected challenges.  
+- Bottom-up tasks coming from you will always have a soft spot for me, raise issues you care about.  
+- Strive to enable your teammates.  
+- Have fun!  
 
 ---
 
@@ -108,6 +123,12 @@ This section is for managers I manage directly.
 - **Career Ladder:** Your path forward matters.  
 - **360 Feedback:** Bi-yearly, to reflect and grow.  
 
+### PragmaErik Survival Tips  
+- **Relationships:** Connect with your PM and manager peers deeply. Enable them, lean on them for support.  
+- **Own your time:** A burned-out manager helps no one. Invest in your well-being.  
+- **There is no golden rule:** Management is chaotic and dynamic, build processes that help overcome the chaos.  
+- **Have fun:** Management is serious work, but allow yourself to refresh with things you enjoy, whether that’s hands-on code or a good book.  
+
 ---
 
 ## For Peers  
@@ -129,6 +150,9 @@ This section is for my fellow engineering leaders. You are my **first team**.
 - **Feedback:** I’ll give it, and I want it back.  
 - **Shared Accountability:** Debate is fine, but once we align, we row together, **same ship, same direction** ⚓.  
 
+### PragmaErik Survival Tips  
+- I deal in puns and ideas, sometimes a lot of both. Always feel free to adjust the **faucet** if it’s too much.  
+
 ---
 
 ## For Product Peers  
@@ -149,6 +173,9 @@ This section is for my product counterparts (PMs, product directors, etc.).
 - Debate is healthy, but once aligned, we move forward together.  
 - We co-own outcomes, not just roadmaps.  
 
+### PragmaErik Survival Tips  
+- I can be verbose, and I’ll have many ideas. Use the **faucet** to dial my involvement up or down as needed.  
+
 ---
 
 ## For CS & CSM  
@@ -168,14 +195,17 @@ Strong CS/R&D collaboration is critical, we’re on the same ship, making sure c
 - Bring forward recurring pain points, I want us to solve them at the root.  
 - Collaborate with us on scaling processes to support growth.  
 
+### PragmaErik Survival Tips  
+- **Translation:** I started out in support, but I’ve been in engineering a long time. If my communication isn’t clear, tell me!  
+
 ---
 
 ## Community  
 
 I’m deeply involved in the tech community, it’s part of who I am.  
 
-- Core team member of **DevOpsDays Tel Aviv**.  
-- Past involvement with **Reversim conference** (speaker & staff).  
+- Core team member of **[DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays)**.  
+- Past involvement with **[Reversim conference](https://summit.reversim.com/)** (speaker & staff).  
 - Regular speaker and participant in local (and some international) conferences.  
 - Mentor to aspiring speakers for years.  
 
