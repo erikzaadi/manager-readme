@@ -71,7 +71,7 @@ My job is to help you succeed, grow, and have an impact without unnecessary fric
 - **WFH:** I trust you to manage your schedule, just keep the team in the loop and stay within company policy.  
 - **Vacations:** Take them, they matter. Give early notice.  
 - **Learning:** It’s part of the job, not extra. Balance features with growth.  
-- **TL as Non-Nudging Buffer:** I’ll enable, not bottleneck. You control the “faucet”, if you want me more involved, just say so. It’s fine if this changes over time.  
+- **Manager as Non-Nudging Buffer:** I’ll enable, not bottleneck. You control the “faucet”, if you want me more involved, just say so. It’s fine if this changes over time.  
 - **1:1s:** Bi-weekly, ~30 min. About you, feedback, and growth, not task check-ins.  
 
 ### How We Work  
