@@ -61,6 +61,17 @@ Like any good system, I come with a few quirks you should know about:
 ### Work-Life Balance 🌱  
 Don’t work over hours. When it’s needed for an incident or something truly urgent, sure, else **manage your time to ensure you breathe and enjoy your private life**.  
 
+### PragmaErik Survival Tips
+
+You’ll see me use the term _“faucet”_ throughout this doc. It’s my way of saying:  
+You get to decide how much involvement or buffering you want from me.  
+
+Need more help today? Just turn the _faucet_ up.  
+Want more space tomorrow? Turn it down.  
+Even if it changes daily, that’s totally OK.  
+
+We’re all human, and it’s always fine to ask for more help or more independence. No need to overthink it.
+
 ---
 
 ## For ICs (Direct Reports)  
@@ -75,11 +86,16 @@ My job is to help you succeed, grow, and have an impact without unnecessary fric
 - **1:1s:** Bi-weekly, ~30 min. About you, feedback, and growth, not task check-ins.  
 
 ### How We Work  
-- **Personal Doc:** Co-created, goal-focused, done by our 3rd 1:1. Private to us.  
+- **Personal Doc:** Co-created, goal-focused, filled by our 3rd 1:1. Private to us.
+    [More info](./personal-goals-doc.md).  
+    It captures your long-term aspirations, short-term goals, and personal interests much like a career dev sandbox.
 - **Meetings:**  
   - Bi-weekly 1:1s.  
   - Bi-monthly *Hackadelic* (team fun, can be related to work or not, name subject to puns).  
-  - Bi-yearly *PEP* (Personal Evaluation Process, **NOT PIP**) , 1.5h deep two-way feedback and growth planning.  
+  - Bi-yearly *PEP* (Personal Evaluation Process, **NOT PIP**),
+    1.5h deep two-way feedback and growth planning.  
+    You'll get a doc to prep ~2 weeks ahead, come as you are, it's a candid conversation.
+    [More info](./bi-yearly-pep-process.md).  
 - **Features vs. Learning:** We balance shipping and growing.  
 - **Team Interaction:** Pairing encouraged, knowledge-sharing expected.  
 
@@ -101,7 +117,7 @@ This section is for managers I manage directly.
 
 ### Coaching & Development  
 - **My Coaching:** I’ll support and coach you directly.  
-- **Peer “Chain Coaching”:** I expect you to coach each other as peers.  
+- **Peer 2 Peer Coaching:** I expect you to coach each other as peers where applicable, hold each other accountable and give kudos, don't wait for others to give feedback.  
 - **Skip Levels:** Monthly, 30 min with your reports, to hear directly from them.  
 
 ### Expectations  
@@ -207,7 +223,7 @@ I’m deeply involved in the tech community, it’s part of who I am.
 - Core team member of **[DevOpsDays Tel Aviv](https://tlvcommunity.dev/devopsdays)**.  
 - Past involvement with **[Reversim conference](https://summit.reversim.com/)** (speaker & staff).  
 - Regular speaker and participant in local (and some international) conferences.  
-- Mentor to aspiring speakers for years.  
+- Mentor to aspiring speakers within and outside places I've worked, for years.  
 
 ### How This Connects to You  
 I believe in giving **others a stage**. For ICs and Managers:  
