@@ -8,12 +8,13 @@ Think of it as an **instruction manual with a human touch**. It’s not static, 
 
 ## Table of Contents  
 1. [Generic (applies to everyone)](#generic---for-everyone)  
-2. [For ICs (Direct Reports)](#for-ics-direct-reports)  
-3. [For Managers](#for-managers)  
-4. [For Peers](#for-peers)  
-5. [For Product Peers](#for-product-peers)  
-6. [For CS & CSM](#for-cs--csm)  
-7. [Community](#community)  
+2. [Templates & Rituals](#templates--rituals)  
+3. [For ICs (Direct Reports)](#for-ics-direct-reports)  
+4. [For Managers](#for-managers)  
+5. [For Peers](#for-peers)  
+6. [For Product Peers](#for-product-peers)  
+7. [For CS & CSM](#for-cs--csm)  
+8. [Community](#community)
 
 ---
 
@@ -74,6 +75,18 @@ We’re all human, and it’s always fine to ask for more help or more independe
 
 ---
 
+## Templates & Rituals
+
+Here are the documents and rituals that support how we work and grow together:
+
+- [Intro Talk Checklist](./introduction-talk.md) – What we’ll go over when you first join  
+- [1:1 Structure](./1on1.md) – Format and expectations for our regular syncs  
+- [Skip-Level Meeting Format](./skip-level.md) – How I run skip-levels and what I want to learn  
+- [Personal Goals Doc](./personal-goals-doc.md) – Your career growth sandbox  
+- [PEP Process](./bi-yearly-pep-process.md) – Bi-yearly deep-dive on growth and feedback
+
+---
+
 ## For ICs (Direct Reports)  
 
 My job is to help you succeed, grow, and have an impact without unnecessary friction.  
@@ -87,7 +100,6 @@ My job is to help you succeed, grow, and have an impact without unnecessary fric
 
 ### How We Work  
 - **Personal Doc:** Co-created, goal-focused, filled by our 3rd 1:1. Private to us.
-    [More info](./personal-goals-doc.md).  
     It captures your long-term aspirations, short-term goals, and personal interests much like a career dev sandbox.
 - **Meetings:**  
   - Bi-weekly 1:1s.  
@@ -95,7 +107,6 @@ My job is to help you succeed, grow, and have an impact without unnecessary fric
   - Bi-yearly *PEP* (Personal Evaluation Process, **NOT PIP**),
     1.5h deep two-way feedback and growth planning.  
     You'll get a doc to prep ~2 weeks ahead, come as you are, it's a candid conversation.
-    [More info](./bi-yearly-pep-process.md).  
 - **Features vs. Learning:** We balance shipping and growing.  
 - **Team Interaction:** Pairing encouraged, knowledge-sharing expected.  
 
