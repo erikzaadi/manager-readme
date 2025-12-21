@@ -4,14 +4,24 @@
 
 Team leader growth and alignment conversation template
 
-The LEAP is a bi-yearly structured conversation between the group manager and each team leader.  
+The LEAP is a bi-yearly structured leadership conversation between a group manager and each team leader.
 It focuses on leadership development, team health, clarity of ownership, execution quality and alignment with org level goals.  
 
 A _"cycle"_ refers to the period between two LEAP conversations, typically spanning six months and aligned with the bi-yearly cadence of the process.  
 
 This document is prepared collaboratively ahead of the session and finalized together during the conversation.
 
+## Bottom Line
+
+The outcome of LEAP is a shared understanding of:
+- How you are showing up as a leader today
+- What kind of leader you aspire to be
+- A small, focused set of leadership and team goals for the next six months
+
 ## Manager Self Reflection
+
+This section is about *you* as a leader and how this cycle felt from your perspective.
+Concise answers are perfectly fine, depth can be added during the conversation.
 
 ### Achievements This Cycle
 
@@ -33,6 +43,8 @@ Include leadership learnings, technical insights, process discoveries or mindset
 Which skills, habits or patterns would you like to develop or refine in the next cycle?
 
 ## Team Health, Identity and Leadership
+
+This section focuses on how your leadership shows up through the team.
 
 ### Team Identity and Mission
 
@@ -108,7 +120,26 @@ Strengths, growth edges, blind spots, leadership opportunities, communication, p
 Support needed, friction points and requests to start, stop or change.  
 This is an explicit space for upward feedback.
 
+## Leadership Aspiration
+
+### Leadership Identity
+
+What kind of team leader do you aspire to be?
+This can relate to leadership style, values, scope, or impact.
+It is completely valid if the answer is "to be an excellent team leader in my current scope".
+
+### Growth Direction
+
+Looking 1–2 cycles ahead, how would you like your leadership role to evolve?
+Examples include deeper mastery of team leadership, broader scope, stronger product ownership, or coaching other leaders.
+
+### Signals of Progress
+
+What would indicate that you are progressing in this direction?
+
 ## Alignment and Goals for the Next Cycle
+
+Everything above feeds into this section, which defines focus for the next six months.
 
 ### Leadership Goals
 
@@ -120,7 +151,7 @@ Execution, health, hiring and process goals.
 
 ### Stretch Areas
 
-Growth opportunities beyond the current comfort zone.
+Optional growth opportunities beyond the current comfort zone.
 
 ### Support Needed
 

@@ -2,10 +2,12 @@
 
 > LEAP: Leadership Evolution and Performance
 
-Bi-yearly leadership growth and alignment program for team leaders
+Bi-yearly leadership growth and alignment program for team leaders.
 
 The LEAP process provides a consistent structure for growth conversations with first line managers.  
 It mirrors the PEP structure, but focuses on leadership, team health, ownership, clarity, cross team collaboration and execution.
+
+LEAP is not only reflective but also directional, culminating in a shared understanding of the team leader’s leadership aspiration and focus areas for the upcoming cycle, as captured in the LEAP template.
 
 In the context of LEAP, a _"cycle"_ refers to the period between two LEAP conversations, typically spanning six months and aligned with the bi-yearly cadence of the process.
 
@@ -13,13 +15,15 @@ In the context of LEAP, a _"cycle"_ refers to the period between two LEAP conver
 
 ## Objectives of the Process
 
+The objectives below are intended to be viewed holistically rather than as a checklist.
+
 1. Create space for structured reflection for every team leader  
 2. Strengthen leadership capabilities and self-awareness  
 3. Improve team health, clarity of mission and execution patterns  
 4. Provide a bidirectional feedback loop between group manager and team leader  
 5. Maintain accountability to quarterly metrics and outcomes  
 6. Reinforce effective cross team collaboration and product partnership  
-7. Set aligned goals and priorities for the next cycle
+7. Set aligned leadership goals and priorities for the next cycle
 
 ## Cadence
 
@@ -31,7 +35,7 @@ In the context of LEAP, a _"cycle"_ refers to the period between two LEAP conver
 
 1. The team leader fills the self reflection, team health and metrics review sections of the LEAP template  
 2. The group manager gathers 360 style feedback from peers, PM partners and other relevant stakeholders  
-3. The group manager fills the feedback to manager section  
+3. The group manager fills the feedback to the team leader section
 4. Both gather questions or discussion points  
 5. A 90 minute meeting is scheduled
 
@@ -50,7 +54,7 @@ In the context of LEAP, a _"cycle"_ refers to the period between two LEAP conver
 1. Finalize the summary section  
 2. Translate goals into the relevant tracking systems (Notion, quarterly plans or HiBob)  
 3. Use quarterly check ins to review metrics, product alignment and leadership progress  
-4. Reference the LEAP from the next cycle to close the loop
+4. Reference the LEAP in the next cycle to track progress and close the loop
 
 ## Principles of the LEAP
 
