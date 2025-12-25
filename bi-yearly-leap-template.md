@@ -1,6 +1,6 @@
 # LEAP  
 
-> LEAP: Leadership Evolution and Performance
+> LEAP: Leadership Evaluation and Performance
 
 Team leader growth and alignment conversation template
 

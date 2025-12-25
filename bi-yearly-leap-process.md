@@ -1,6 +1,6 @@
 # LEAP Process  
 
-> LEAP: Leadership Evolution and Performance
+> LEAP: Leadership Evaluation and Performance
 
 Bi-yearly leadership growth and alignment program for team leaders.
 
